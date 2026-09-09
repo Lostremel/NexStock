@@ -1,4 +1,4 @@
-# NexStock
+# NextStock
 Projeto de Controle de Estoque
 
 Meu primeiro projeto mais completo utilizando JavaScript.
